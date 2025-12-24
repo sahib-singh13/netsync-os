@@ -30,7 +30,7 @@ NetSync bridges this gap by exposing MPTCP subflow metrics—such as Round-Trip 
 * **Key Subsystems:**
     * **Custom GDT/IDT:** Low-level hardware abstraction and interrupt handling.
     * **VirtIO-Net Driver:** High-performance paravirtualized network interface for QEMU.
-    * **Saluja-Scheduler:** A predictive, priority-based preemptive scheduler.
+    * **Divsa-Scheduler:** A predictive, priority-based preemptive scheduler.
     * **Memory Management:** Bitmap-based Physical Memory Manager (PMM) and 4KB-page-level Virtual Memory.
 
 
