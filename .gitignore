@@ -1,0 +1,13 @@
+# Toolchain (NEVER commit)
+toolchain/
+
+# Build outputs
+*.o
+*.bin
+*.elf
+*.iso
+*.img
+
+# Misc
+*.log
+
